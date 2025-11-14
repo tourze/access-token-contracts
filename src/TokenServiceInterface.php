@@ -7,7 +7,7 @@ namespace Tourze\AccessTokenContracts;
 use Symfony\Component\Security\Core\User\UserInterface;
 
 /**
- * 异步队列
+ * 访问令牌服务接口
  */
 interface TokenServiceInterface
 {

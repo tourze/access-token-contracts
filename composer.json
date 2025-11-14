@@ -1,6 +1,6 @@
 {
   "name": "tourze/access-token-contracts",
-  "description": "",
+  "description": "Access token management contracts and interfaces for PHP applications",
   "license": "MIT",
   "require": {
     "php": "^8.2",
